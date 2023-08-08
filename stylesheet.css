@@ -1,0 +1,75 @@
+body{
+    background-color:rgb(26, 121, 150);
+    color: aliceblue;
+    margin-left: 3%;
+    width: 90%;
+}
+h1{
+    text-align: center;
+    color: rgb(245, 226, 53);
+    text-shadow: 0.5px 0.5px 1px white;
+}
+h2{
+    margin-left: 5%;
+}
+form{
+    margin-left: 20%;
+    float: left;
+}
+.map{
+    margin-top: 15vw;
+    text-align: center;
+}
+.map #bar1{
+    background-color: rgb(192, 192, 16);
+    float: left;
+    width: 13.5vw;
+    
+}
+.map #bar2{
+    background-color: rgb(12, 180, 12);
+    float: left;
+    margin: 0;
+    width: 6.4vw;
+}
+.map #bar3{
+    background-color: rgb(196, 16, 16);
+    float: left;
+    margin: 0;
+    width: 13.5vw;
+}
+#age, #height, #weight, #btn1, #out{
+    margin: 2vw 2vw 2vw 2vw;
+}
+#btn1{
+    background-color: rgb(20, 161, 20);
+    color: white;
+    width: 6vw;
+    height: 2.5vw;
+    margin-left: 16vw;
+}
+
+div{
+    margin-left: 5%;
+}
+#p1{
+    clear: left;
+    margin-top: 5vw;
+    margin-left: 8vw;
+    width: 85%;
+    line-height: 1.5vw;
+}
+.block1{
+    float: left;
+    width: 25vw;
+    margin-top: 10vw;
+    align-items: center;
+}
+.formula{
+    margin: 2vw 0 0 10vw ;
+    border: 3px solid black;
+    width: 30vw;
+}
+.end{
+    margin-left: 20%;
+}
